@@ -37,19 +37,6 @@ In this project, the user takes on the challenge of proving they’re a bot by c
    ```
 5. Visit `http://localhost:3000` in your browser to start proving you're a bot! 🤖
 
-## 🚀 **Usage**
-Once the app is running, you'll see instructions guiding you to complete specific tasks to "prove you're a robot." The current tasks include:
-1. **Binary Conversion** - Convert numbers like "10" to binary. 💻
-2. **Pattern Matching** - Type characters exactly as they appear. 🔠
-
-Upon completing these tasks, you'll receive feedback indicating whether you've "passed" as a robot or "failed" as a human! 👾
-
-## 🎨 **Design Inspiration**
-The app is designed with a dark theme, neon accents, and the `Orbitron` font for a sleek, futuristic look:
-- **Background**: #0d1117 for a modern, dark theme.
-- **Text**: Neon green and cyan highlights for a sci-fi look.
-- **Fonts**: Roboto Mono and Orbitron for a retro-futuristic feel.
-
 ## 🌟 **Future Improvements**
 - Add more robot-centric tasks (e.g., binary addition, pattern replication).
 - Implement sound effects and animations for a more immersive experience.
